@@ -28,3 +28,6 @@
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
    cd yourrepository
+## 免责声明
+
+该工具仅供安全研究和渗透测试用途，请勿用于非法目的！使用本工具造成的任何法律责任由用户自行承担。
